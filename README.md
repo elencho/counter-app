@@ -1,3 +1,17 @@
+# Counter App
+
+![Peek 2020-10-02 20-46](https://user-images.githubusercontent.com/53994979/94948714-ce9d2780-04f0-11eb-8ce7-2e66c9775ea6.gif)
+
+
+Beginner react-redux exercise
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
